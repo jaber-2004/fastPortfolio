@@ -227,7 +227,8 @@ h6 p {
   text-align: center !important;
 }
 #footer {
-  padding: 130px 0;
+  padding-top: 130px;
+  padding-bottom: 50px;
   background-color: #FFF8F3;
 }
 .footerflex {
